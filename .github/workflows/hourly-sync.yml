@@ -6,6 +6,7 @@ on:
     types: [external-sync]
   schedule:
     - cron: "22 * * * *"
+    - cron: "52 * * * *"
 
 permissions:
   contents: write
