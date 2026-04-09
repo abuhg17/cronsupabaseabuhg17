@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-04-09T19:50:04.596Z",
+  "synced_at": "2026-04-09T20:27:15.373Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
@@ -35,7 +35,7 @@
     },
     {
       "table": "music",
-      "row_count": 0,
+      "row_count": 62,
       "file": "music.json"
     },
     {
