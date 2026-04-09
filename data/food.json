@@ -1,54 +1,18 @@
 [
   {
-    "id": 26,
-    "name": "【張君雅】日式串燒休閒丸子",
-    "amount": 1,
-    "price": null,
-    "shop": null,
-    "todate": "2026-01-07",
-    "photo": "https://online.carrefour.com.tw/on/demandware.static/-/Sites-carrefour-tw-m-inner/default/dwd792433f/images/large/0246532.jpeg",
-    "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
-  },
-  {
-    "id": 27,
-    "name": "【樂事】",
-    "amount": 2,
-    "price": null,
-    "shop": null,
-    "todate": "2026-01-22",
-    "photo": "https://web.hocom.tw/Uploads/Product/25003_198453_qimhnm39.jpg",
-    "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
-  },
-  {
-    "id": 28,
-    "name": "【萬丹】保久乳",
-    "amount": 9,
-    "price": null,
-    "shop": null,
-    "todate": "2026-02-26",
-    "photo": "https://online.carrefour.com.tw/on/demandware.static/-/Sites-carrefour-tw-m-inner/default/dw20948d4c/images/large/1502092400106-2025-1.jpg",
-    "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
-  },
-  {
-    "id": 29,
-    "name": "【義美】純豬肉鬆",
+    "id": 38,
+    "name": "【義美】純豬肉鬆 原味＋海苔芝麻",
     "amount": 2,
     "price": null,
     "shop": null,
     "todate": "2026-04-14",
     "photo": "https://i4.momoshop.com.tw/1692550089/goodsimg/0004/454/947/4454947_OR.webp",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 30,
+    "id": 39,
     "name": "【義美】煎餅（花生）（杏仁）",
     "amount": 7,
     "price": null,
@@ -56,23 +20,35 @@
     "todate": "2026-05-19",
     "photo": "https://web.hocom.tw/Uploads/Product/112397_un09317k.jpg",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 31,
+    "id": 40,
+    "name": "奇比樂起士餅",
+    "amount": 10,
+    "price": null,
+    "shop": null,
+    "todate": "2026-06-04",
+    "photo": "https://image.pxgo.com.tw/pic/2026/01/15/431c9dc44e2c4fb6b4ee65e4197f5bb1.jpg",
+    "photohash": null,
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
+  },
+  {
+    "id": 41,
     "name": "【黑松】FIN補給飲料",
-    "amount": null,
+    "amount": 12,
     "price": null,
     "shop": null,
     "todate": "2026-06-10",
     "photo": "https://media.etmall.com.tw/nximg/007749/7749527/7749527-1_xxl.jpg?t=22230879535",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 32,
+    "id": 42,
     "name": "【義美】榛果巧克力酥片",
     "amount": 1,
     "price": null,
@@ -80,11 +56,11 @@
     "todate": "2026-07-15",
     "photo": "https://online.carrefour.com.tw/on/demandware.static/-/Sites-carrefour-tw-m-inner/default/dw0a0ee190/images/large/0220110.jpeg",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 33,
+    "id": 43,
     "name": "【愛之味】牛奶花生",
     "amount": 6,
     "price": null,
@@ -92,11 +68,11 @@
     "todate": "2027-03-04",
     "photo": "https://www.agv.com.tw/wp-content/uploads/69691c7bdcc3ce6d5d8a1361f22d04ac.jpg",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 34,
+    "id": 44,
     "name": "【泰山】八寶粥",
     "amount": 6,
     "price": null,
@@ -104,11 +80,23 @@
     "todate": "2027-04-14",
     "photo": "https://shoplineimg.com/64587ad406d620007ce10917/6463162e0fa8d10001cc0eb5/800x.jpg?",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 35,
+    "id": 45,
+    "name": "【台糖】安心豚 瓜仔肉醬",
+    "amount": 2,
+    "price": null,
+    "shop": null,
+    "todate": "2028-02-27",
+    "photo": "https://fs1.shop123.com.tw/400467/upload/product/4004673346pic_origin_310994859874_ars_600_600.webp",
+    "photohash": null,
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
+  },
+  {
+    "id": 46,
     "name": "【台糖】豆豉紅燒鰻",
     "amount": 3,
     "price": null,
@@ -116,11 +104,11 @@
     "todate": "2028-06-04",
     "photo": "https://fs1.shop123.com.tw/400467/upload/product/4004673457pic_outside_441268438813.jpg",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 36,
+    "id": 47,
     "name": "【遠洋牌】鮪魚三明治",
     "amount": 3,
     "price": null,
@@ -128,11 +116,23 @@
     "todate": "2028-07-28",
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6UCwjaicHkv5XB5Zus8QkIoFrEz0EIiNCw&s",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   },
   {
-    "id": 37,
+    "id": 48,
+    "name": "青葉麵筋",
+    "amount": 3,
+    "price": null,
+    "shop": null,
+    "todate": "2028-11-06",
+    "photo": "https://chinyeh.com.tw/wp-content/uploads/2025/07/chinyeh-product_12-1_3KG%E9%BA%B5%E7%AD%8B-1030x1030.jpg",
+    "photohash": null,
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
+  },
+  {
+    "id": 49,
     "name": "【遠洋牌】水煮鮪魚片",
     "amount": 3,
     "price": null,
@@ -140,7 +140,7 @@
     "todate": "2028-11-20",
     "photo": "https://online.carrefour.com.tw/on/demandware.static/-/Sites-carrefour-tw-m-inner/default/dw109cd06c/images/large/1483000100103.png",
     "photohash": null,
-    "created_at": "2026-03-02T14:39:20.814885+00:00",
-    "updated_at": "2026-03-02T14:39:20.814885+00:00"
+    "created_at": "2026-04-09T12:13:28.763803+00:00",
+    "updated_at": "2026-04-09T12:13:28.763803+00:00"
   }
 ]

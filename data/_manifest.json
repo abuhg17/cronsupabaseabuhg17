@@ -1,26 +1,26 @@
 {
-  "synced_at": "2026-04-09T11:27:14.273Z",
+  "synced_at": "2026-04-09T15:34:22.023Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
     {
       "table": "article",
-      "row_count": 26,
+      "row_count": 73,
       "file": "article.json"
     },
     {
       "table": "bank",
-      "row_count": 9,
+      "row_count": 11,
       "file": "bank.json"
     },
     {
       "table": "commonaccount",
-      "row_count": 145,
+      "row_count": 171,
       "file": "commonaccount.json"
     },
     {
       "table": "commondocument",
-      "row_count": 14,
+      "row_count": 19,
       "file": "commondocument.json"
     },
     {
@@ -45,12 +45,12 @@
     },
     {
       "table": "routine",
-      "row_count": 2,
+      "row_count": 25,
       "file": "routine.json"
     },
     {
       "table": "subscription",
-      "row_count": 30,
+      "row_count": 42,
       "file": "subscription.json"
     },
     {
