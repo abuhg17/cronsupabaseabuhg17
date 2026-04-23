@@ -1,34 +1,20 @@
 [
   {
-    "id": 19,
-    "name": "台新銀行",
-    "deposit": 500,
-    "site": "https://www.taishinbank.com.tw",
+    "id": 30,
+    "name": "中國信託",
+    "deposit": 894,
+    "site": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_debitcard_index/cc_debitcard/D_LINEPay.html",
     "address": null,
     "withdrawals": 0,
     "transfer": 0,
     "activity": null,
-    "card": null,
-    "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "card": "中國信託LINE Pay Debit卡 6010",
+    "account": "54064",
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 20,
-    "name": "國泰世華",
-    "deposit": 500,
-    "site": "https://www.cathaybk.com.tw",
-    "address": null,
-    "withdrawals": 0,
-    "transfer": 0,
-    "activity": null,
-    "card": null,
-    "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
-  },
-  {
-    "id": 21,
+    "id": 31,
     "name": "兆豐銀行",
     "deposit": 500,
     "site": null,
@@ -38,11 +24,11 @@
     "activity": null,
     "card": null,
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 22,
+    "id": 32,
     "name": "王道銀行",
     "deposit": 500,
     "site": null,
@@ -52,11 +38,11 @@
     "activity": null,
     "card": null,
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 23,
+    "id": 33,
     "name": "新光銀行",
     "deposit": 500,
     "site": "https://www.skbank.com.tw/",
@@ -66,11 +52,11 @@
     "activity": null,
     "card": null,
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 24,
+    "id": 34,
     "name": "中華郵政",
     "deposit": 500,
     "site": null,
@@ -80,53 +66,53 @@
     "activity": null,
     "card": null,
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 25,
+    "id": 35,
     "name": "玉山銀行",
-    "deposit": 477,
+    "deposit": 260,
     "site": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/debit-card/Pi-debit-card",
     "address": null,
     "withdrawals": 3,
     "transfer": 3,
     "activity": "https://event.esunbank.com.tw/mkt/OpenAccount/marketing/discount.html",
-    "card": null,
+    "card": "玉山Pi拍兔簽帳金融卡",
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 26,
-    "name": "中國信託",
-    "deposit": 375,
-    "site": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_debitcard_index/cc_debitcard/D_LINEPay.html",
+    "id": 36,
+    "name": "台新銀行",
+    "deposit": 236,
+    "site": "https://www.taishinbank.com.tw",
     "address": null,
-    "withdrawals": 0,
-    "transfer": 0,
-    "activity": null,
-    "card": "中國信託LINE Pay Debit卡 6010",
-    "account": "54064",
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "withdrawals": 5,
+    "transfer": 5,
+    "activity": "https://richart.tw/TSDIB_RichartWeb/ntd-saving-currency",
+    "card": "台新Richart VISA金融卡 1902",
+    "account": "57295",
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 27,
+    "id": 37,
     "name": "台北富邦",
     "deposit": 180,
-    "site": null,
+    "site": "https://www.fubon.com/banking/event/deposit/FubonDSAPromotion/index.html?fromUrl=TFBofficialweb_digital_saving&fromNo=001",
     "address": null,
-    "withdrawals": 0,
-    "transfer": 0,
-    "activity": null,
-    "card": null,
-    "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "withdrawals": 5,
+    "transfer": 5,
+    "activity": "https://www.fubon.com/banking/Personal/deposit/digital_saving/digital_saving.htm",
+    "card": "富邦簽帳金融卡 9907",
+    "account": "20819",
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 28,
+    "id": 38,
     "name": "SuperCard悠遊卡 塔仔不正經",
     "deposit": 129,
     "site": null,
@@ -136,11 +122,25 @@
     "activity": null,
     "card": null,
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   },
   {
-    "id": 29,
+    "id": 39,
+    "name": "國泰世華",
+    "deposit": 128,
+    "site": "https://www.cathaybk.com.tw",
+    "address": null,
+    "withdrawals": 0,
+    "transfer": 0,
+    "activity": null,
+    "card": "國泰世華一卡通簽帳金融卡",
+    "account": null,
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
+  },
+  {
+    "id": 40,
     "name": "Xiaomi 手環9 NFC 午夜黑",
     "deposit": 116,
     "site": null,
@@ -150,7 +150,7 @@
     "activity": null,
     "card": null,
     "account": null,
-    "created_at": "2026-04-09T12:17:05.182+00:00",
-    "updated_at": "2026-04-09T12:17:06.580541+00:00"
+    "created_at": "2026-04-23T06:20:01.545+00:00",
+    "updated_at": "2026-04-23T06:20:03.846634+00:00"
   }
 ]
