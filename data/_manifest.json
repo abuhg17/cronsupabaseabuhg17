@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-01T11:04:55.220Z",
+  "synced_at": "2026-05-01T11:27:13.575Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
@@ -25,7 +25,7 @@
     },
     {
       "table": "food",
-      "row_count": 17,
+      "row_count": 19,
       "file": "food.json"
     },
     {
