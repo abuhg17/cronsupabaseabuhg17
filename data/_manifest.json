@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-03T17:44:48.552Z",
+  "synced_at": "2026-05-03T18:27:13.439Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
@@ -55,7 +55,7 @@
     },
     {
       "table": "video",
-      "row_count": 3,
+      "row_count": 7,
       "file": "video.json"
     }
   ]
