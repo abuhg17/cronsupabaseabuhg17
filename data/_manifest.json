@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-06T17:27:20.921Z",
+  "synced_at": "2026-05-06T18:15:33.475Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
@@ -30,7 +30,7 @@
     },
     {
       "table": "image",
-      "row_count": 256,
+      "row_count": 0,
       "file": "image.json"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "table": "video",
-      "row_count": 7,
+      "row_count": 0,
       "file": "video.json"
     }
   ]
