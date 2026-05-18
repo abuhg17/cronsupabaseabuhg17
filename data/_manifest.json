@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-05-18T14:28:34.582Z",
+  "synced_at": "2026-05-18T14:43:57.969Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
@@ -15,7 +15,7 @@
     },
     {
       "table": "commonaccount",
-      "row_count": 149,
+      "row_count": 176,
       "file": "commonaccount.json"
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "table": "food",
-      "row_count": 19,
+      "row_count": 31,
       "file": "food.json"
     },
     {
