@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-06-04T17:33:36.999Z",
+  "synced_at": "2026-06-04T17:48:55.894Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
   "tables": [
@@ -25,7 +25,7 @@
     },
     {
       "table": "food",
-      "row_count": 31,
+      "row_count": 20,
       "file": "food.json"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "table": "subscription",
-      "row_count": 66,
+      "row_count": 58,
       "file": "subscription.json"
     },
     {
