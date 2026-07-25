@@ -5,6 +5,7 @@ on:
   repository_dispatch:
     types: [external-sync]
   schedule:
+    # Primary + backup slot in case one is delayed/skipped by GitHub
     - cron: "37 * * * *"
     - cron: "57 * * * *"
 
@@ -22,6 +23,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Show trigger source
         run: echo "Triggered by ${{ github.event_name }}"
@@ -31,12 +34,24 @@ jobs:
         with:
           node-version: "20"
 
+      # Odd hour (Asia/Taipei): insert marker routine; even hour: remove it.
+      # Runs before export so data/routine.json reflects the latest state.
+      - name: Toggle cron routine (odd insert / even delete)
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          ROUTINE_TZ: Asia/Taipei
+        run: node scripts/toggle-cron-routine.mjs
+
       - name: Sync Supabase tables as JSON
+        id: sync
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SUPABASE_TABLES: ${{ secrets.SUPABASE_TABLES }}
+          SYNC_CONCURRENCY: "4"
         run: node scripts/sync-supabase-tables.mjs
 
       - name: Commit changes
@@ -48,5 +63,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "chore: sync supabase tables"
+          table_count=$(node -e "const m=require('./data/_manifest.json'); process.stdout.write(String(m.table_count??0))")
+          git commit -m "chore: sync supabase tables (${table_count} tables)"
           git push
