@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-08-13T08:18:33.284Z",
+  "synced_at": "2026-08-13T08:27:19.420Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
-  "duration_ms": 2174,
+  "duration_ms": 2195,
   "tables": [
     {
       "table": "article",
