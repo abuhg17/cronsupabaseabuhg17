@@ -298,5 +298,17 @@
     "photo": null,
     "created_at": "2026-04-23T06:20:24.545658+00:00",
     "updated_at": "2026-04-23T06:20:24.545658+00:00"
+  },
+  {
+    "id": 337,
+    "name": "[cron] 奇數小時標記 15:00",
+    "note": "__CRON_ROUTINE_TOGGLE__",
+    "lastdate1": "2026-08-18T07:22:22.581+00:00",
+    "lastdate2": null,
+    "lastdate3": null,
+    "link": null,
+    "photo": null,
+    "created_at": "2026-08-18T07:22:23.107366+00:00",
+    "updated_at": "2026-08-18T07:22:23.107366+00:00"
   }
 ]
