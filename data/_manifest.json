@@ -1,8 +1,8 @@
 {
-  "synced_at": "2026-09-03T06:27:24.579Z",
+  "synced_at": "2026-09-03T07:27:21.589Z",
   "table_count": 11,
   "discovery_mode": "service_role_auto_discovery",
-  "duration_ms": 2427,
+  "duration_ms": 2554,
   "tables": [
     {
       "table": "article",
@@ -46,7 +46,7 @@
     },
     {
       "table": "routine",
-      "row_count": 25,
+      "row_count": 26,
       "file": "routine.json"
     },
     {
